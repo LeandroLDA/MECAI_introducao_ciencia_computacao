@@ -1,0 +1,1 @@
+[Link para a aula de Busca Interna Avançada](https://www.youtube.com/watch?v=dnY-EbHoi-g)
