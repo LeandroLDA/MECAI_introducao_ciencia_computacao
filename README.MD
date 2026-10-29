@@ -18,7 +18,7 @@ As soluções hospedadas neste repositório utilizam um ecossistema focado em Ci
 Os diretórios estão divididos de forma lógica para facilitar a leitura e a execução dos códigos:
 
 * `notebooks/`: Cadernos interativos contendo demonstrações, aulas práticas e resoluções.
-* `src/` (ou `scripts/`): Implementações em Python puro (`.py`) com funções modulares e lógicas de algoritmos.
+* `src/` : Implementações em Python puro (`.py`) com funções modulares e lógicas de algoritmos.
 * `data/`: Bases de dados e arquivos estáticos necessários para a execução das atividades.
 * `docs/`: Enunciados das listas de exercícios e anotações teóricas de apoio.
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ```
 
-## Autor
+## Informação reunida por:
 
 **Leandro de Andrade**
 
