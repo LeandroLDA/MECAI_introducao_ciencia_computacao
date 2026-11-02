@@ -22,6 +22,20 @@ Os diretórios estão divididos de forma lógica para facilitar a leitura e a ex
 * `data/`: Bases de dados e arquivos estáticos necessários para a execução das atividades.
 * `docs/`: Enunciados das listas de exercícios e anotações teóricas de apoio.
 
+## Status do repositório
+
+<!-- Contagem de Commits -->
+![Commits](https://img.shields.io/github/commit-activity/t/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&label=commits)
+
+<!-- Último Commit Realizado -->
+![Último commit](https://img.shields.io/github/last-commit/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&label=%C3%BAltimo%20commit)
+
+<!-- Issues Abertas -->
+![Issues Abertas](https://img.shields.io/github/issues/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&color=blue&label=issues%20abertas)
+
+<!-- Issues Resolvidas / Fechadas -->
+![Issues Fechadas](https://img.shields.io/github/issues-closed/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&color=purple&label=issues%20fechadas)
+
 ## Como Executar
 
 Para rodar os códigos localmente e testar as implementações, clone o repositório e configure seu ambiente virtual:
