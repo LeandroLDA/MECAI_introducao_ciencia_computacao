@@ -37,3 +37,10 @@ cd MECAI_introducao_ciencia_computacao
 
 # Instale os pacotes de dependência
 pip install -r requirements.txt
+```
+
+## Informação reunida por:
+
+**Leandro de Andrade**
+
+Mestrando em Matemática, Estatística e Computação Aplicadas à Indústria (MECAI) no ICMC-USP. Atuando na convergência entre Ciência de Dados, Pesquisa Operacional e Engenharia de Machine Learning, aliando base técnica construída na automação da indústria pesada.
