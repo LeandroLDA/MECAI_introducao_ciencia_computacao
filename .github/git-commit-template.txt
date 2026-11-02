@@ -1,0 +1,8 @@
+# <tipo>: <resumo em até 50 caracteres>
+# Tipos: feat, fix, docs, style, refactor, test, chore
+# 
+# Corpo: descrição detalhada da motivação e alterações (se necessário)
+# 
+# Rodapé: referências a issues ou breaking changes
+# Closes #
+# Ref #
