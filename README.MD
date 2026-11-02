@@ -1,5 +1,7 @@
 # Introdução à Ciência da Computação | MECAI - ICMC-USP
 
+![Commits](https://img.shields.io/github/commit-activity/t/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&label=commits) ![Último commit](https://img.shields.io/github/last-commit/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&label=%C3%BAltimo%20commit) ![Issues Abertas](https://img.shields.io/github/issues/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&color=blue&label=issues%20abertas) ![Issues Fechadas](https://img.shields.io/github/issues-closed/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&color=purple&label=issues%20fechadas)
+
 Este repositório centraliza as atividades, códigos e projetos práticos desenvolvidos para a disciplina de Introdução à Ciência da Computação. O material faz parte do Mestrado Profissional em Matemática, Estatística e Computação Aplicadas à Indústria (MECAI) do Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC-USP), em São Carlos.
 
 O objetivo deste espaço é registrar conceitos essenciais de programação, estruturas de dados e algoritmos, aplicando a base computacional na resolução de problemas práticos e na construção de pipelines de dados.
@@ -18,23 +20,9 @@ As soluções hospedadas neste repositório utilizam um ecossistema focado em Ci
 Os diretórios estão divididos de forma lógica para facilitar a leitura e a execução dos códigos:
 
 * `notebooks/`: Cadernos interativos contendo demonstrações, aulas práticas e resoluções.
-* `src/` : Implementações em Python puro (`.py`) com funções modulares e lógicas de algoritmos.
+* `src/`: Implementações em Python puro (`.py`) com funções modulares e lógicas de algoritmos.
 * `data/`: Bases de dados e arquivos estáticos necessários para a execução das atividades.
 * `docs/`: Enunciados das listas de exercícios e anotações teóricas de apoio.
-
-## Status do repositório
-
-<!-- Contagem de Commits -->
-![Commits](https://img.shields.io/github/commit-activity/t/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&label=commits)
-
-<!-- Último Commit Realizado -->
-![Último commit](https://img.shields.io/github/last-commit/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&label=%C3%BAltimo%20commit)
-
-<!-- Issues Abertas -->
-![Issues Abertas](https://img.shields.io/github/issues/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&color=blue&label=issues%20abertas)
-
-<!-- Issues Resolvidas / Fechadas -->
-![Issues Fechadas](https://img.shields.io/github/issues-closed/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&color=purple&label=issues%20fechadas)
 
 ## Como Executar
 
@@ -42,18 +30,10 @@ Para rodar os códigos localmente e testar as implementações, clone o reposit�
 
 ```bash
 # Faça o clone do repositório
-git clone https://github.com/LeandroLDA/MECAI_introducao_ciencia_computacao.git
+git clone [https://github.com/LeandroLDA/MECAI_introducao_ciencia_computacao.git](https://github.com/LeandroLDA/MECAI_introducao_ciencia_computacao.git)
 
 # Acesse a pasta do projeto
 cd MECAI_introducao_ciencia_computacao
 
 # Instale os pacotes de dependência
 pip install -r requirements.txt
-
-```
-
-## Informação reunida por:
-
-**Leandro de Andrade**
-
-Mestrando em Matemática, Estatística e Computação Aplicadas à Indústria (MECAI) no ICMC-USP. Atuando na convergência entre Ciência de Dados, Pesquisa Operacional e Engenharia de Machine Learning, aliando base técnica construída na automação da indústria pesada.
