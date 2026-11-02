@@ -1,6 +1,12 @@
 # Introdução à Ciência da Computação | MECAI - ICMC-USP
 
-![Commits](https://img.shields.io/github/commit-activity/t/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&label=commits) ![Último commit](https://img.shields.io/github/last-commit/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&label=%C3%BAltimo%20commit) ![Issues Abertas](https://img.shields.io/github/issues/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&color=blue&label=issues%20abertas) ![Issues Fechadas](https://img.shields.io/github/issues-closed/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&color=purple&label=issues%20fechadas)
+![Commits](https://img.shields.io/github/commit-activity/t/LeandroLDA/MECAI_introducao_ciencia_computacao?style=for-the-badge&label=commits) ![Último commit](https://img.shields.io/github/last-commit/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&label=%C3%BAltimo%20commit) ![Issues Abertas](https://img.shields.io/github/issues/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&color=blue&label=issues%20abertas) ![Issues Fechadas](https://img.shields.io/github/issues-closed/LeandroLDA/MECAI_introducao_ciencia_computacao?style=flat-square&color=purple&label=issues%20fechadas)
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeandroLDA&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+</p>
 
 Este repositório centraliza as atividades, códigos e projetos práticos desenvolvidos para a disciplina de Introdução à Ciência da Computação. O material faz parte do Mestrado Profissional em Matemática, Estatística e Computação Aplicadas à Indústria (MECAI) do Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC-USP), em São Carlos.
 
